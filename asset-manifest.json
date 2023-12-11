@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/homescare.co.kr/static/css/main.5dc50015.css",
+    "main.js": "/homescare.co.kr/static/js/main.3a9df90b.js",
+    "static/media/GOODS6.png": "/homescare.co.kr/static/media/GOODS6.dc07d8340aa1c68ac5d9.png",
+    "static/media/GOODS5.png": "/homescare.co.kr/static/media/GOODS5.d73521b3b8ac6d30fd84.png",
+    "static/media/GOODS7.png": "/homescare.co.kr/static/media/GOODS7.046bcd6c52a1a9ad9c79.png",
+    "static/media/main_pr_thum.jpg": "/homescare.co.kr/static/media/main_pr_thum.74ff196f20abdf784360.jpg",
+    "static/media/GOODS8.jpg": "/homescare.co.kr/static/media/GOODS8.219a0125b509db90870e.jpg",
+    "static/media/GOODS3.jpg": "/homescare.co.kr/static/media/GOODS3.fca6b4a1955cf9c5a7c2.jpg",
+    "static/media/GOODS4.png": "/homescare.co.kr/static/media/GOODS4.a0db2bb126668e7a530d.png",
+    "static/media/GOODS2.png": "/homescare.co.kr/static/media/GOODS2.931c7650257c29c7ba55.png",
+    "static/media/GOODS1.png": "/homescare.co.kr/static/media/GOODS1.7dc42ef69d89a481df2f.png",
+    "static/media/main_review_bg.jpg": "/homescare.co.kr/static/media/main_review_bg.e0ae9310dc64637aca9f.jpg",
+    "static/media/main_pr_bg.jpg": "/homescare.co.kr/static/media/main_pr_bg.e9ac3a56017b9496734c.jpg",
+    "static/media/main_homescare_bg02.jpg": "/homescare.co.kr/static/media/main_homescare_bg02.270db8ad7a738bac71ea.jpg",
+    "static/media/main_customer_bg.png": "/homescare.co.kr/static/media/main_customer_bg.252b5b9b6f36a7b22225.png",
+    "static/media/main_homescare_bg01.jpg": "/homescare.co.kr/static/media/main_homescare_bg01.1cb9bf482767538d796a.jpg",
+    "static/media/main_homescare_bg03.jpg": "/homescare.co.kr/static/media/main_homescare_bg03.c986328196fcc9dd843a.jpg",
+    "index.html": "/homescare.co.kr/index.html",
+    "main.5dc50015.css.map": "/homescare.co.kr/static/css/main.5dc50015.css.map",
+    "main.3a9df90b.js.map": "/homescare.co.kr/static/js/main.3a9df90b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc50015.css",
+    "static/js/main.3a9df90b.js"
+  ]
+}
